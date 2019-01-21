@@ -21,7 +21,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 3.  Neutron
 4.  Photon
 5.  Meson
-6. neutrino
+6.  Neutrino
 7. 
 
 # Welcome to StackEdit!
@@ -168,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI2NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
 -->
