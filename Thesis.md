@@ -19,7 +19,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 1. Electron . Thomson
 2. Atom Nucleus. Proton Rutherford
 3.  Neutron
-4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are 
+4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together?
 6.  Neutrino
 7. 
@@ -168,6 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDMxNDI3MiwxNjQ1Mzk0MDYwLC0xOT
-EyNjYyNzIyXX0=
+eyJoaXN0b3J5IjpbMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MT
+I2NjI3MjJdfQ==
 -->
