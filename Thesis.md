@@ -21,7 +21,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
-6. Antiparticles: 
+6. Antiparticles: as a consequence of  the 
 7.  Neutrino
 8. 
 
@@ -169,6 +169,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTUzMzczMSwyMjEwNzUyODMsMTY0NT
-M5NDA2MCwtMTkxMjY2MjcyMl19
+eyJoaXN0b3J5IjpbMTI3NTQ5ODc1OSwxMTA1NTMzNzMxLDIyMT
+A3NTI4MywxNjQ1Mzk0MDYwLC0xOTEyNjYyNzIyXX0=
 -->
