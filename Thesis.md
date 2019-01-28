@@ -21,7 +21,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
-6. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons cloul be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are possitive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consecua  
+6. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons cloul be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are possitive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consecuance of thew quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge.   
 7.  Neutrino
 8. 
 
@@ -169,6 +169,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjcyMTIxLDExMDU1MzM3MzEsMjIxMD
-c1MjgzLDE2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI0NDg1MTMsMTEwNTUzMzczMSwyMj
+EwNzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
 -->
