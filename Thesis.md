@@ -20,7 +20,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 2. Atom Nucleus. Proton Rutherford
 3.  Neutron
 4.  Photon
-5.  Meson
+5.  Meson: what holds the nucleus together?
 6.  Neutrino
 7. 
 
@@ -168,5 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
+eyJoaXN0b3J5IjpbMzg5ODg5NDQ1LDE2NDUzOTQwNjAsLTE5MT
+I2NjI3MjJdfQ==
 -->
