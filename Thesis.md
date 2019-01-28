@@ -20,7 +20,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 2. Atom Nucleus. Proton Rutherford
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
-5.  Meson: what holds the nucleus together?
+5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force
 6.  Neutrino
 7. 
 
@@ -168,6 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MT
-I2NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQyMDI5NTcsMjIxMDc1MjgzLDE2ND
+UzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
 -->
