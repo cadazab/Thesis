@@ -26,7 +26,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have a charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one   
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have a charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one,   
 
 
 3.  Neutron
@@ -181,10 +181,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3OTYxMDEzLDQ1MTE1MDgwNSwyMjM0NT
-YyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMDUwNDQyMzU3
-LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NTkwNTI3NjIsMTE2Nj
-IxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYzNzE2LDE5MTk1Njk4
-NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMSwyMjEwNzUyODMsMT
-Y0NTM5NDA2MCwtMTkxMjY2MjcyMl19
+eyJoaXN0b3J5IjpbMTIxNDEyNDAyOCw0NTExNTA4MDUsMjIzND
+U2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0MjM1
+Nyw3ODkxNDA0NTgsLTExODk4MzY4NTYsNDU5MDUyNzYyLDExNj
+YyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2MzcxNiwxOTE5NTY5
+ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3MzEsMjIxMDc1MjgzLD
+E2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
 -->
