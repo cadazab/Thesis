@@ -15,6 +15,7 @@ some of the implications are that for example the mass is not not conserved as e
 
 In general, the heavier the particle you want to produce, the higher must be the energy of the collision.
 
+
 ### History of particles
 1. Electron . Thomson
 2. Atom Nucleus. Proton Rutherford
@@ -170,8 +171,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk4MzY4NTYsNDU5MDUyNzYyLDExNj
-YyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2MzcxNiwxOTE5NTY5
-ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3MzEsMjIxMDc1MjgzLD
-E2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbLTI2MTExODgyMiwtMTE4OTgzNjg1Niw0NT
+kwNTI3NjIsMTE2NjIxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYz
+NzE2LDE5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMS
+wyMjEwNzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
 -->
