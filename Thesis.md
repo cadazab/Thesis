@@ -22,7 +22,7 @@ In general, the heavier the particle you want to produce, the higher must be the
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 6. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons cloul be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are possitive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consecuance of thew quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
-7. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. 
+7. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. T
 8. 
 9. 
 
@@ -170,7 +170,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDkwNzU1OCwtMTQ0NTMzNjM5NywtMz
+eyJoaXN0b3J5IjpbMTUyMDk0NTQ0OCwtMTQ0NTMzNjM5NywtMz
 A5MDYzNzE2LDE5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUz
 MzczMSwyMjEwNzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl
 19
