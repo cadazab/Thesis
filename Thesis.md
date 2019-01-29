@@ -26,7 +26,9 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atom: 
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferious to the mass of the atom, the conclusion was that the atoms were detaching one of their components, the **electrons**. 
+
+Translated with www.DeepL.com/Translator
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
@@ -179,9 +181,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMD
-UwNDQyMzU3LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NTkwNTI3
-NjIsMTE2NjIxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYzNzE2LD
-E5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMSwyMjEw
-NzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
+eyJoaXN0b3J5IjpbMTI3MDE3NTcyMiwtMTQyNzQ5MjgzOSwtNT
+gxNjA4OTAyLDIwNTA0NDIzNTcsNzg5MTQwNDU4LC0xMTg5ODM2
+ODU2LDQ1OTA1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2Mzk3LC
+0zMDkwNjM3MTYsMTkxOTU2OTg3NiwtMTYxMjQ0ODUxMywxMTA1
+NTMzNzMxLDIyMTA3NTI4MywxNjQ1Mzk0MDYwLC0xOTEyNjYyNz
+IyXX0=
 -->
