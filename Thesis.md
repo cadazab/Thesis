@@ -15,6 +15,9 @@ some of the implications are that for example the mass is not not conserved as e
 
 In general, the heavier the particle you want to produce, the higher must be the energy of the collision.
 
+### Some Basic rules to understand the standard model
+
+
 
 ### History of particles
 1. Electron . Thomson
@@ -171,8 +174,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTExODgyMiwtMTE4OTgzNjg1Niw0NT
-kwNTI3NjIsMTE2NjIxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYz
-NzE2LDE5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMS
-wyMjEwNzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
+eyJoaXN0b3J5IjpbLTE5OTcxOTc4NzQsLTExODk4MzY4NTYsND
+U5MDUyNzYyLDExNjYyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2
+MzcxNiwxOTE5NTY5ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3Mz
+EsMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
+
 -->
