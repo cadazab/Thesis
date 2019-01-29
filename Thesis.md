@@ -26,7 +26,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferious to the mass of the atom, the conclusion was that the atoms were detaching one of their components, the **electrons**. 
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  
 
 Translated with www.DeepL.com/Translator
 3.  Neutron
@@ -181,10 +181,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDE3NTcyMiwtMTQyNzQ5MjgzOSwtNT
-gxNjA4OTAyLDIwNTA0NDIzNTcsNzg5MTQwNDU4LC0xMTg5ODM2
-ODU2LDQ1OTA1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2Mzk3LC
-0zMDkwNjM3MTYsMTkxOTU2OTg3NiwtMTYxMjQ0ODUxMywxMTA1
-NTMzNzMxLDIyMTA3NTI4MywxNjQ1Mzk0MDYwLC0xOTEyNjYyNz
-IyXX0=
+eyJoaXN0b3J5IjpbMjIzNDU2MjUwLC0xNDI3NDkyODM5LC01OD
+E2MDg5MDIsMjA1MDQ0MjM1Nyw3ODkxNDA0NTgsLTExODk4MzY4
+NTYsNDU5MDUyNzYyLDExNjYyMTA0OTMsLTE0NDUzMzYzOTcsLT
+MwOTA2MzcxNiwxOTE5NTY5ODc2LC0xNjEyNDQ4NTEzLDExMDU1
+MzM3MzEsMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MTI2NjI3Mj
+JdfQ==
 -->
