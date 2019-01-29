@@ -16,7 +16,7 @@ some of the implications are that for example the mass is not not conserved as e
 In general, the heavier the particle you want to produce, the higher must be the energy of the collision.
 
 ## The Standard model
-What is matter made of?, 
+What is matter made of?, What are the basic building blocks of the universe that form all the atoms, molecules, proteins, planets, stars, and the life itself? 
 
 ### Some basic rules to understand the standard model
 
@@ -177,9 +177,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDQ0MjM1Nyw3ODkxNDA0NTgsLTExOD
-k4MzY4NTYsNDU5MDUyNzYyLDExNjYyMTA0OTMsLTE0NDUzMzYz
-OTcsLTMwOTA2MzcxNiwxOTE5NTY5ODc2LC0xNjEyNDQ4NTEzLD
-ExMDU1MzM3MzEsMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MTI2
-NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTUxMzY3MTEsMjA1MDQ0MjM1Nyw3OD
+kxNDA0NTgsLTExODk4MzY4NTYsNDU5MDUyNzYyLDExNjYyMTA0
+OTMsLTE0NDUzMzYzOTcsLTMwOTA2MzcxNiwxOTE5NTY5ODc2LC
+0xNjEyNDQ4NTEzLDExMDU1MzM3MzEsMjIxMDc1MjgzLDE2NDUz
+OTQwNjAsLTE5MTI2NjI3MjJdfQ==
 -->
