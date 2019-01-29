@@ -26,7 +26,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have a charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more atoms bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons, it weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical tho the proton but whit neutral
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have a charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more atoms bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons, it weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical tho the proton but ellectrically neutral, which was also inside the nucleus of the atom. 
 
 
 3.  Neutron
@@ -181,11 +181,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA2NjQ2MTUsLTkyMTM0OTgwNyw0NT
-ExNTA4MDUsMjIzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5
-MDIsMjA1MDQ0MjM1Nyw3ODkxNDA0NTgsLTExODk4MzY4NTYsND
-U5MDUyNzYyLDExNjYyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2
-MzcxNiwxOTE5NTY5ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3Mz
-EsMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
-
+eyJoaXN0b3J5IjpbLTExNTE4NDU5MiwtOTIxMzQ5ODA3LDQ1MT
+E1MDgwNSwyMjM0NTYyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkw
+MiwyMDUwNDQyMzU3LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NT
+kwNTI3NjIsMTE2NjIxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYz
+NzE2LDE5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMS
+wyMjEwNzUyODMsMTY0NTM5NDA2MCwtMTkxMjY2MjcyMl19
 -->
