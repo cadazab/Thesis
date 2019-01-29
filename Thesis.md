@@ -19,8 +19,8 @@ In general, the heavier the particle you want to produce, the higher must be the
 
 
 
-### History of particles
-1. Electron . Thomson
+### Very brief history of particle physics 
+1.  
 2. Atom Nucleus. Proton Rutherford
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
@@ -174,9 +174,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcxOTc4NzQsLTExODk4MzY4NTYsND
-U5MDUyNzYyLDExNjYyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2
-MzcxNiwxOTE5NTY5ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3Mz
-EsMjIxMDc1MjgzLDE2NDUzOTQwNjAsLTE5MTI2NjI3MjJdfQ==
-
+eyJoaXN0b3J5IjpbNzg5MTQwNDU4LC0xMTg5ODM2ODU2LDQ1OT
+A1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2Mzk3LC0zMDkwNjM3
+MTYsMTkxOTU2OTg3NiwtMTYxMjQ0ODUxMywxMTA1NTMzNzMxLD
+IyMTA3NTI4MywxNjQ1Mzk0MDYwLC0xOTEyNjYyNzIyXX0=
 -->
