@@ -26,7 +26,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**  
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of indivisible components called atoms, which were regularly electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by charged corpuscles, but that they were not ions, because the curvature showed that the mass had to be very inferiors to the mass of an atom, the conclusion was that the atoms were detaching one of their components, and this was the discovery of the **electron**.  But if this particle had a charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first model of and atom was   
 
 
 3.  Neutron
@@ -181,10 +181,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTcyNTk4ODIsMjIzNDU2MjUwLC0xND
-I3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0MjM1Nyw3ODkxNDA0
-NTgsLTExODk4MzY4NTYsNDU5MDUyNzYyLDExNjYyMTA0OTMsLT
-E0NDUzMzYzOTcsLTMwOTA2MzcxNiwxOTE5NTY5ODc2LC0xNjEy
-NDQ4NTEzLDExMDU1MzM3MzEsMjIxMDc1MjgzLDE2NDUzOTQwNj
-AsLTE5MTI2NjI3MjJdfQ==
+eyJoaXN0b3J5IjpbMTU0MzkwNzM4NiwyMjM0NTYyNTAsLTE0Mj
+c0OTI4MzksLTU4MTYwODkwMiwyMDUwNDQyMzU3LDc4OTE0MDQ1
+OCwtMTE4OTgzNjg1Niw0NTkwNTI3NjIsMTE2NjIxMDQ5MywtMT
+Q0NTMzNjM5NywtMzA5MDYzNzE2LDE5MTk1Njk4NzYsLTE2MTI0
+NDg1MTMsMTEwNTUzMzczMSwyMjEwNzUyODMsMTY0NTM5NDA2MC
+wtMTkxMjY2MjcyMl19
 -->
