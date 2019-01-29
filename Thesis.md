@@ -1,7 +1,7 @@
 ### Sources of information to see interactions between particle physics
 1. Scattering events: a particle is fire at another and the angle of inflection is recorded
 2. decays: a particle spontaneously disintegrates and the debris are examined
-3. bound states: Two or more particles stick togethe, and the properties of the composite object are studied.
+3. bound states: Two or more particles stick together, and the properties of the composite object are studied.
 
 ### Physics needed
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
@@ -15,13 +15,16 @@ some of the implications are that for example the mass is not not conserved as e
 
 In general, the heavier the particle you want to produce, the higher must be the energy of the collision.
 
-### Some Basic rules to understand the standard model
+## The Standard model
+
+
+### Some basic rules to understand the standard model
 
 
 
 ### Very brief history of particle physics 
-1.  
-2. Atom Nucleus. Proton Rutherford
+
+1. Atom: 
 3.  Neutron
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
@@ -174,8 +177,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MTQwNDU4LC0xMTg5ODM2ODU2LDQ1OT
-A1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2Mzk3LC0zMDkwNjM3
-MTYsMTkxOTU2OTg3NiwtMTYxMjQ0ODUxMywxMTA1NTMzNzMxLD
-IyMTA3NTI4MywxNjQ1Mzk0MDYwLC0xOTEyNjYyNzIyXX0=
+eyJoaXN0b3J5IjpbLTEzNDcxMzY0NDUsNzg5MTQwNDU4LC0xMT
+g5ODM2ODU2LDQ1OTA1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2
+Mzk3LC0zMDkwNjM3MTYsMTkxOTU2OTg3NiwtMTYxMjQ0ODUxMy
+wxMTA1NTMzNzMxLDIyMTA3NTI4MywxNjQ1Mzk0MDYwLC0xOTEy
+NjYyNzIyXX0=
 -->
