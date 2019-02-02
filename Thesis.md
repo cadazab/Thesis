@@ -28,7 +28,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of *indivisible* components called atoms, which were electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by negative charged corpuscles, but that they were not ions, because the curvature of the trajectory showed that the mass had to be very inferior to the mass of an atom. The conclusion was that the atom was certainly not an elemental block, and was composed of other particles, and in the experiment it was detaching one of these, the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Niels  Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more protons bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons,  weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical to the proton but ellectrically neutral, which was also inside the nucleus of the atom. In this way the modern conception of the atom and its components (nucleus of protons and neutrons surrounded by electrons ) that we have today was arrived, but of course it wasn't the end of the story.
 
-2.  Photons: 
+2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). 5
 
 in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 4.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
@@ -182,11 +182,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MzI0ODE4LDE4NDY5NTU4NjIsLTMzOT
-I0MzQ0MCw5ODMyODIxNzcsMTQ1OTk0MDU0MCwxMTMzNTgwNTA2
-LDc4ODY5NDEyNSwtOTIxMzQ5ODA3LDQ1MTE1MDgwNSwyMjM0NT
-YyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMDUwNDQyMzU3
-LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NTkwNTI3NjIsMTE2Nj
-IxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYzNzE2LDE5MTk1Njk4
-NzZdfQ==
+eyJoaXN0b3J5IjpbMTAyNDM1MzUwOCw1NDkzMjQ4MTgsMTg0Nj
+k1NTg2MiwtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQw
+LDExMzM1ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMT
+UwODA1LDIyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNTgxNjA4OTAy
+LDIwNTA0NDIzNTcsNzg5MTQwNDU4LC0xMTg5ODM2ODU2LDQ1OT
+A1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2Mzk3LC0zMDkwNjM3
+MTZdfQ==
 -->
