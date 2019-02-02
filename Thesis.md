@@ -28,15 +28,16 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of *indivisible* components called atoms, which were electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by negative charged corpuscles, but that they were not ions, because the curvature of the trajectory showed that the mass had to be very inferior to the mass of an atom. The conclusion was that the atom was certainly not an elemental block, and was composed of other particles, and in the experiment it was detaching one of these, the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Niels  Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more protons bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons,  weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical to the proton but ellectrically neutral, which was also inside the nucleus of the atom. In this way the modern conception of the atom and its components (nucleus of protons and neutrons surrounded by electrons ) that we have today was arrived, but of course it wasn't the end of the story.
 
-2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, y propuso una formula para explicar el *e*
+2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, and proposed a formula to explain the photoelectric effect,  in which a light quantum hits an electron in the surface, giving up its energy, and then 
+
 
 in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
-4.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
-5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
-6. Mesons: pi and muon, page 19
-7. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
+3.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
+4. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
+5. Mesons: pi and muon, page 19
+6. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
+7. 
 8. 
-9. 
 
 # Welcome to StackEdit!
 
@@ -182,11 +183,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMyNDg3NTksLTQwMDc2NTk4MCw1ND
-kzMjQ4MTgsMTg0Njk1NTg2MiwtMzM5MjQzNDQwLDk4MzI4MjE3
-NywxNDU5OTQwNTQwLDExMzM1ODA1MDYsNzg4Njk0MTI1LC05Mj
-EzNDk4MDcsNDUxMTUwODA1LDIyMzQ1NjI1MCwtMTQyNzQ5Mjgz
-OSwtNTgxNjA4OTAyLDIwNTA0NDIzNTcsNzg5MTQwNDU4LC0xMT
-g5ODM2ODU2LDQ1OTA1Mjc2MiwxMTY2MjEwNDkzLC0xNDQ1MzM2
-Mzk3XX0=
+eyJoaXN0b3J5IjpbMTY0NjE4OTA0OCwtMTk2MzI0ODc1OSwtND
+AwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC0zMzkyNDM0
+NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4MDUwNiw3OD
+g2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUsMjIzNDU2MjUw
+LC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0MjM1Nyw3OD
+kxNDA0NTgsLTExODk4MzY4NTYsNDU5MDUyNzYyLDExNjYyMTA0
+OTNdfQ==
 -->
