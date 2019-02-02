@@ -26,7 +26,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 ### Very brief history of particle physics 
 
-1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of *indivisible* components called atoms, which were electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by negative charged corpuscles, but that they were not ions, because the curvature of the trajectory showed that the mass had to be very inferior to the mass of an atom. The conclusion was that the atom was certainly not an elemental block, and was composed of other particles, and in the experiment it was detaching one of these, the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more protons bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons, it weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical to the proton but ellectrically neutral, which was also inside the nucleus of the atom. In this way the modern conception of the atom and its components that we have today was arrived. 
+1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of *indivisible* components called atoms, which were electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by negative charged corpuscles, but that they were not ions, because the curvature of the trajectory showed that the mass had to be very inferior to the mass of an atom. The conclusion was that the atom was certainly not an elemental block, and was composed of other particles, and in the experiment it was detaching one of these, the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the **proton**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Niels  Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more protons bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons,  weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical to the proton but ellectrically neutral, which was also inside the nucleus of the atom. In this way the modern conception of the atom and its components that we have today was arrived. 
 
 4.  Photon: in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 5.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
@@ -179,11 +179,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc1MDU5MzcsMTQ1OTk0MDU0MCwxMT
-MzNTgwNTA2LDc4ODY5NDEyNSwtOTIxMzQ5ODA3LDQ1MTE1MDgw
-NSwyMjM0NTYyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMD
-UwNDQyMzU3LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NTkwNTI3
-NjIsMTE2NjIxMDQ5MywtMTQ0NTMzNjM5NywtMzA5MDYzNzE2LD
-E5MTk1Njk4NzYsLTE2MTI0NDg1MTMsMTEwNTUzMzczMSwyMjEw
-NzUyODNdfQ==
+eyJoaXN0b3J5IjpbOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMz
+U4MDUwNiw3ODg2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUs
+MjIzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MD
+Q0MjM1Nyw3ODkxNDA0NTgsLTExODk4MzY4NTYsNDU5MDUyNzYy
+LDExNjYyMTA0OTMsLTE0NDUzMzYzOTcsLTMwOTA2MzcxNiwxOT
+E5NTY5ODc2LC0xNjEyNDQ4NTEzLDExMDU1MzM3MzEsMjIxMDc1
+MjgzXX0=
 -->
