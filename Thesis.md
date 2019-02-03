@@ -36,7 +36,7 @@ To understand a little more the fact that the quantization is a feature of the e
 3. Physics needed: 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory (when we speak of mass, we really speak of mass at rest). Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
 
-En esta teoria, el photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or atraction no se atribuye mas al campo magnetic, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of photons,  which carry the *information* of repulsion or attraction. For instancr, 
+En esta teoria, el photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or atraction no se atribuye mas al campo magnetic, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of photons,  which carry the *information* of repulsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction  
 
 
 
@@ -197,11 +197,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mjg1NzQxOSwtMjA3NjA1NzA0NywxMj
-U4Mzc2NDg4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0
-ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC
-0zMzkyNDM0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4
-MDUwNiw3ODg2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUsMj
-IzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0
-MjM1N119
+eyJoaXN0b3J5IjpbLTE0NDM3NTIyNDYsLTIwNzYwNTcwNDcsMT
+I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
+NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
+wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
+ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMTUwODA1LD
+IyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNTgxNjA4OTAyLDIwNTA0
+NDIzNTddfQ==
 -->
