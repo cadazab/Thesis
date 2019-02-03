@@ -30,7 +30,8 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, and proposed a formula to explain the photoelectric effect,  in which a light quantum hits an electron in the surface, giving up its energy, and then the exited electron breaks through the metal surface. The proposal of corpuscles of light was not very accepted at the time, but the corroborations in the laboratory of the photoelectric effect and the experiment carried out in 1923 by Arthur Compton, in which light skaters off a particle, evidenced that light behaves as a particle, on the subatomic scale. This particle was called *photon*.
 
-Para entender un poco mas el hecho de que the  the quantization was a feature of the electromagnetic field, es necesario abordar un poco las teorias fiskas necesarias para analizar las interacciones de estas partículas.
+To understand a little more the fact that the quantization is a feature of the electromagnetic field, it is necessary to address  physical theories necessary to analyze the interactions of these particles.
+
 
 3. Physics needed
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
@@ -192,7 +193,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc4MzI5MDUsLTIwNzYwNTcwNDcsMT
+eyJoaXN0b3J5IjpbLTEyMDUwMjU1MTYsLTIwNzYwNTcwNDcsMT
 I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
 NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
 wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
