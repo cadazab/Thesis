@@ -30,7 +30,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, and proposed a formula to explain the photoelectric effect,  in which a light quantum hits an electron in the surface, giving up its energy, and then the exited electron breaks through the metal surface. The proposal of corpuscles of light was not very accepted at the time, but the corroborations in the laboratory of the photoelectric effect and the experiment carried out in 1923 by Arthur Compton, in which light skaters off a particle, evidenced that light behaves as a particle, on the subatomic scale. This particle was called *photon*.
 
-Est
+Como ya mencione, 
 
 ### Physics needed
 
@@ -192,11 +192,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjUxMTg4NywtMjA3NjA1NzA0NywxMj
-U4Mzc2NDg4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0
-ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC
-0zMzkyNDM0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4
-MDUwNiw3ODg2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUsMj
-IzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0
-MjM1N119
+eyJoaXN0b3J5IjpbODM5OTU4MzI1LC0yMDc2MDU3MDQ3LDEyNT
+gzNzY0ODgsMTc0Njc0NzM0MCwyMTEzNzY3NjQ2LC0xOTYzMjQ4
+NzU5LC00MDA3NjU5ODAsNTQ5MzI0ODE4LDE4NDY5NTU4NjIsLT
+MzOTI0MzQ0MCw5ODMyODIxNzcsMTQ1OTk0MDU0MCwxMTMzNTgw
+NTA2LDc4ODY5NDEyNSwtOTIxMzQ5ODA3LDQ1MTE1MDgwNSwyMj
+M0NTYyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMDUwNDQy
+MzU3XX0=
 -->
