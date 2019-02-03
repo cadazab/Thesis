@@ -34,7 +34,8 @@ To understand a little more the fact that the quantization is a feature of the e
 
 
 3. Physics needed: 
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.  Esta combinación tiene ciertas implicaciones importantes, por ejemplo, la energy y el momentum are always conserved, but the mass is not, y es posible tener un decaimiento A -> B + C, en el que la suma de la masa B y C es mayor que la masa de A, esta es una concfcuencia directa de la teoria relativista (cuando se habla de masa, realmente se habla de la masa en reposo). Otra consecuencia es que los sistemas físicos están descritos por una function de onda, y los procesos físicos consisten en transiciones de un estado a otro, y estas transiciones no son totalmente determinadas por las condiciones iniciales, en vez de eso se calcula la probabilidad for a given transition to occur.
+when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory (when we speak of mass, we really speak of mass at rest). Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
+
 
 
 
@@ -194,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzNDgxNTMsLTIwNzYwNTcwNDcsMT
-I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
-NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
-wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
-ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMTUwODA1LD
-IyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNTgxNjA4OTAyLDIwNTA0
-NDIzNTddfQ==
+eyJoaXN0b3J5IjpbMTM3MjM3MzE5MiwtMjA3NjA1NzA0NywxMj
+U4Mzc2NDg4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0
+ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC
+0zMzkyNDM0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4
+MDUwNiw3ODg2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUsMj
+IzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0
+MjM1N119
 -->
