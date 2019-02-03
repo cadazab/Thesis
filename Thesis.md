@@ -34,7 +34,8 @@ To understand a little more the fact that the quantization is a feature of the e
 
 
 3. Physics needed: 
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**. Esta combinación tiene ciertas implicaciones importantes, por ejemplo, la energy y el momentum are always conserved, but the mass is not, y es posible tener un decaimiento A -> B + C, en el que la suma de la masa B y C es mayor que la masa de A, esta es una concfcuencia directa de la teoria relativista (cuando se habla de masa, realmente se habla de la masa en reposo). Otra consecuencia es que los sistemas físicos están descritos por una function de onda, y los procesos físicos consisten en transiciones de un estado a otro, y estas tranci
+when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.  Esta combinación tiene ciertas implicaciones importantes, por ejemplo, la energy y el momentum are always conserved, but the mass is not, y es posible tener un decaimiento A -> B + C, en el que la suma de la masa B y C es mayor que la masa de A, esta es una concfcuencia directa de la teoria relativista (cuando se habla de masa, realmente se habla de la masa en reposo). Otra consecuencia es que los sistemas físicos están descritos por una function de onda, y los procesos físicos consisten en transiciones de un estado a otro, y estas transiciones no son totalmente determinadas por las condiciones iniciales, en vez de eso se calcula la probabilidad for a given transition to occur.
+
 
 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
@@ -193,7 +194,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYzNDEwMTcsLTIwNzYwNTcwNDcsMT
+eyJoaXN0b3J5IjpbLTE0NTIzNDgxNTMsLTIwNzYwNTcwNDcsMT
 I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
 NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
 wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
