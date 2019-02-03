@@ -34,7 +34,7 @@ To understand a little more the fact that the quantization is a feature of the e
 
 
 3. Physics needed: 
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**, 
+when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**. Esta combinación tiene un par de implicaciones importantes, 
 
 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
@@ -193,11 +193,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc5ODIxOTksLTIwNzYwNTcwNDcsMT
-I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
-NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
-wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
-ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMTUwODA1LD
-IyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNTgxNjA4OTAyLDIwNTA0
-NDIzNTddfQ==
+eyJoaXN0b3J5IjpbMTY4NTc3NDM0NiwtMjA3NjA1NzA0NywxMj
+U4Mzc2NDg4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0
+ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC
+0zMzkyNDM0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4
+MDUwNiw3ODg2OTQxMjUsLTkyMTM0OTgwNyw0NTExNTA4MDUsMj
+IzNDU2MjUwLC0xNDI3NDkyODM5LC01ODE2MDg5MDIsMjA1MDQ0
+MjM1N119
 -->
