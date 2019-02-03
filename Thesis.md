@@ -32,6 +32,8 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 
 
+
+
 in quantum field theory, the fields are quantized and the interactions of the forces are constant exchange of some particles
 3.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 4. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
@@ -184,11 +186,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njc0NzM0MCwyMTEzNzY3NjQ2LC0xOT
-YzMjQ4NzU5LC00MDA3NjU5ODAsNTQ5MzI0ODE4LDE4NDY5NTU4
-NjIsLTMzOTI0MzQ0MCw5ODMyODIxNzcsMTQ1OTk0MDU0MCwxMT
-MzNTgwNTA2LDc4ODY5NDEyNSwtOTIxMzQ5ODA3LDQ1MTE1MDgw
-NSwyMjM0NTYyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMD
-UwNDQyMzU3LDc4OTE0MDQ1OCwtMTE4OTgzNjg1Niw0NTkwNTI3
-NjJdfQ==
+eyJoaXN0b3J5IjpbMTI1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMT
+M3Njc2NDYsLTE5NjMyNDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4
+MTgsMTg0Njk1NTg2MiwtMzM5MjQzNDQwLDk4MzI4MjE3NywxND
+U5OTQwNTQwLDExMzM1ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4
+MDcsNDUxMTUwODA1LDIyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNT
+gxNjA4OTAyLDIwNTA0NDIzNTcsNzg5MTQwNDU4LC0xMTg5ODM2
+ODU2XX0=
 -->
