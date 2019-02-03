@@ -34,7 +34,7 @@ To understand a little more the fact that the quantization is a feature of the e
 
 
 3. Physics needed: 
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**. Esta combinación tiene ciertas implicaciones importantes, por ejemplo, la energy y el momentum are always conserved, but the mass is not, y es posible tener un decaimiento A -> B + C, en el que la suma de la masa B y C es mayor que la masa de A, esta es una concfcuencia directa de la teoria relativista (cuando se habla de masa, realmente se habla de la masa en reposo). 
+when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**. Esta combinación tiene ciertas implicaciones importantes, por ejemplo, la energy y el momentum are always conserved, but the mass is not, y es posible tener un decaimiento A -> B + C, en el que la suma de la masa B y C es mayor que la masa de A, esta es una concfcuencia directa de la teoria relativista (cuando se habla de masa, realmente se habla de la masa en reposo). Otra consecuencia es que los sistemas fisicos 
 
 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
@@ -193,11 +193,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMDY0Nzg5LC0yMDc2MDU3MDQ3LDEyNT
-gzNzY0ODgsMTc0Njc0NzM0MCwyMTEzNzY3NjQ2LC0xOTYzMjQ4
-NzU5LC00MDA3NjU5ODAsNTQ5MzI0ODE4LDE4NDY5NTU4NjIsLT
-MzOTI0MzQ0MCw5ODMyODIxNzcsMTQ1OTk0MDU0MCwxMTMzNTgw
-NTA2LDc4ODY5NDEyNSwtOTIxMzQ5ODA3LDQ1MTE1MDgwNSwyMj
-M0NTYyNTAsLTE0Mjc0OTI4MzksLTU4MTYwODkwMiwyMDUwNDQy
-MzU3XX0=
+eyJoaXN0b3J5IjpbLTExMjM3OTUxMzksLTIwNzYwNTcwNDcsMT
+I1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMy
+NDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2Mi
+wtMzM5MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1
+ODA1MDYsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMTUwODA1LD
+IyMzQ1NjI1MCwtMTQyNzQ5MjgzOSwtNTgxNjA4OTAyLDIwNTA0
+NDIzNTddfQ==
 -->
