@@ -36,7 +36,7 @@ To understand a little more the fact that the quantization is a feature of the e
 3. Physics needed: 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory (when we speak of mass, we really speak of mass at rest). Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
 
-In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repulsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
+In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullo         yb bb    gsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
  
 3.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 4. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
@@ -189,11 +189,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDI3OTM4MCwtMTY3ODQzODM4NiwxMT
-g4MTUyMjM3LC0yMDc2MDU3MDQ3LDEyNTgzNzY0ODgsMTc0Njc0
-NzM0MCwyMTEzNzY3NjQ2LC0xOTYzMjQ4NzU5LC00MDA3NjU5OD
-AsNTQ5MzI0ODE4LDE4NDY5NTU4NjIsLTMzOTI0MzQ0MCw5ODMy
-ODIxNzcsMTQ1OTk0MDU0MCwxMTMzNTgwNTA2LDc4ODY5NDEyNS
-wtOTIxMzQ5ODA3LDQ1MTE1MDgwNSwyMjM0NTYyNTAsLTE0Mjc0
-OTI4MzldfQ==
+eyJoaXN0b3J5IjpbLTcwMjY3NDcyMywtNjI0Mjc5MzgwLC0xNj
+c4NDM4Mzg2LDExODgxNTIyMzcsLTIwNzYwNTcwNDcsMTI1ODM3
+NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5NjMyNDg3NT
+ksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2MiwtMzM5
+MjQzNDQwLDk4MzI4MjE3NywxNDU5OTQwNTQwLDExMzM1ODA1MD
+YsNzg4Njk0MTI1LC05MjEzNDk4MDcsNDUxMTUwODA1LDIyMzQ1
+NjI1MF19
 -->
