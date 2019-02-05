@@ -40,7 +40,7 @@ In this theory, the photon offer a whole new perspective on electromagnetic inte
 3.  Mesons: 
 If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there should be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but that it should have a very small range, because otherwise we would see its effects beyond the atom.  
 
-Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 6 times the mass of the proton, and it was called **meson**. The experimental evidence of this particle would come in 1937, in which two groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description.
+Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 6 times the mass of the proton, and it was called **meson**. The experimental evidence of this particle would come in 1937, in which two res groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description.
 
  yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 
@@ -195,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxMzc4MjUsLTE4MTgxMzA4OTMsLT
-E3ODM3NzUxODYsNTQwMDMxMDEwLDIwNzYxNzk1OTYsLTE2NjA3
-MzU2MjIsLTE2MjgxMzUzNTgsLTcwMjY3NDcyMywtNjI0Mjc5Mz
-gwLC0xNjc4NDM4Mzg2LDExODgxNTIyMzcsLTIwNzYwNTcwNDcs
-MTI1ODM3NjQ4OCwxNzQ2NzQ3MzQwLDIxMTM3Njc2NDYsLTE5Nj
-MyNDg3NTksLTQwMDc2NTk4MCw1NDkzMjQ4MTgsMTg0Njk1NTg2
-MiwtMzM5MjQzNDQwXX0=
+eyJoaXN0b3J5IjpbLTQyMjI0MjQ2NSwtMTgxODEzMDg5MywtMT
+c4Mzc3NTE4Niw1NDAwMzEwMTAsMjA3NjE3OTU5NiwtMTY2MDcz
+NTYyMiwtMTYyODEzNTM1OCwtNzAyNjc0NzIzLC02MjQyNzkzOD
+AsLTE2Nzg0MzgzODYsMTE4ODE1MjIzNywtMjA3NjA1NzA0Nywx
+MjU4Mzc2NDg4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2Mz
+I0ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYy
+LC0zMzkyNDM0NDBdfQ==
 -->
