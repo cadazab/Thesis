@@ -40,7 +40,7 @@ In this theory, the photon offer a whole new perspective on electromagnetic inte
 3.  Mesons: 
 If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there should be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but that it should have a very small range, because otherwise we would see its effects beyond the atom.  
 
-Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 300 times the mas of the electron
+Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 6 times the mass of the proton. 
 
  yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 
@@ -195,7 +195,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MDAzMTg4LC0xODE4MTMwODkzLC0xNz
+eyJoaXN0b3J5IjpbNjAzNDIwNDg2LC0xODE4MTMwODkzLC0xNz
 gzNzc1MTg2LDU0MDAzMTAxMCwyMDc2MTc5NTk2LC0xNjYwNzM1
 NjIyLC0xNjI4MTM1MzU4LC03MDI2NzQ3MjMsLTYyNDI3OTM4MC
 wtMTY3ODQzODM4NiwxMTg4MTUyMjM3LC0yMDc2MDU3MDQ3LDEy
