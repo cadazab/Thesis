@@ -28,10 +28,9 @@ What is matter made of?, What are the basic building blocks of the universe that
 
 1. Atoms: in the 17th century, it was well accepted that chemical elements were made up of *indivisible* components called atoms, which were electrically neutral or could have charge (ions).  But then in the year 1897, J.J.Thomson analyzed the curvature of cathodic rays subjected to a magnetic field, and he realized that these rays had to be formed by negative charged corpuscles, but that they were not ions, because the curvature of the trajectory showed that the mass had to be very inferior to the mass of an atom. The conclusion was that the atom was certainly not an elemental block, and was composed of other particles, and in the experiment it was detaching one of these, the **electron**.  But if this particle had a negative charge, the remaining part of the atoms should have a positive charge.  Ernest Rutherford would demonstrate with his scattering experiment that indeed it was other component with positive charge concentrated in a tiny core at the center of the atom, that contained almost the entire mass of it, the nucleus of the atom made up of positive charges,  the **protons**. The first description of the lightest atom, hydrogen, was the union of a proton and an electron, and using this model and the, at that time, new quantum theory, Niels  Bohr calculated the hydrogen spectrum, and the result was so accurate in comparison with the experimental results, that it was natural to assume that this model of the atom was the right one, and therefore that heavier atoms were composed of two or more protons bound together with the same number of electrons. However, the next heavier atom (helium),  despite having two electrons,  weighs four times more than hydrogen, and lithium with three electrons, seven times the weight of hydrogen and so on. The problem was solved with the discovery of the **neutron**, a particle almost identical to the proton but ellectrically neutral, which was also inside the nucleus of the atom. In this way the modern conception of the atom and its components (nucleus of protons and neutrons surrounded by electrons ) that we have today was arrived, but of course it wasn't the end of the story.
 
-2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, and proposed a formula to explain the photoelectric effect,  in which a light quantum hits an electron in the surface, giving up its energy, and then the exited electron breaks through the metal surface. The proposal of corpuscles of light was not very accepted at the time, but the corroborations in the laboratory of the photoelectric effect and the experiment carried out in 1923 by Arthur Compton, in which light skaters off a particle, evidenced that light behaves as a particle, on the subatomic scale. This particle was called *photon*.
+2.  Photons: In 1900 Max Plank was able to obtain a formula to describe the electromagnetic radiation emitted by a hot object, proposing that this radiation was quantized in small energy packages (the birth of quantum mechanics). Five years later, Albert Einstein argued that the quantization was a feature of the electromagnetic field itself, and proposed a formula to explain the photoelectric effect,  in which a *light quantum* hits an electron in the surface, giving up its energy, and then the exited electron breaks through the metal surface. The proposal of corpuscles of light was not very accepted at the time, but the corroborations in the laboratory of the photoelectric effect and the experiment carried out in 1923 by Arthur Compton, in which light skaters off a particle, evidenced that light behaves as a particle, on the subatomic scale. This particle was called **photon**.
 
 To understand a little more the fact that the quantization is a feature of the electromagnetic field, it is necessary to address the physical theories necessary to analyze the interactions of these particles.
-
 
 3. Physics needed: 
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory (when we speak of mass, we really speak of mass at rest). Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
@@ -189,11 +188,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNTQ4MDM0LC0xNjI4MTM1MzU4LC03MD
-I2NzQ3MjMsLTYyNDI3OTM4MCwtMTY3ODQzODM4NiwxMTg4MTUy
-MjM3LC0yMDc2MDU3MDQ3LDEyNTgzNzY0ODgsMTc0Njc0NzM0MC
-wyMTEzNzY3NjQ2LC0xOTYzMjQ4NzU5LC00MDA3NjU5ODAsNTQ5
-MzI0ODE4LDE4NDY5NTU4NjIsLTMzOTI0MzQ0MCw5ODMyODIxNz
-csMTQ1OTk0MDU0MCwxMTMzNTgwNTA2LDc4ODY5NDEyNSwtOTIx
-MzQ5ODA3XX0=
+eyJoaXN0b3J5IjpbLTE2NjA3MzU2MjIsLTE2MjgxMzUzNTgsLT
+cwMjY3NDcyMywtNjI0Mjc5MzgwLC0xNjc4NDM4Mzg2LDExODgx
+NTIyMzcsLTIwNzYwNTcwNDcsMTI1ODM3NjQ4OCwxNzQ2NzQ3Mz
+QwLDIxMTM3Njc2NDYsLTE5NjMyNDg3NTksLTQwMDc2NTk4MCw1
+NDkzMjQ4MTgsMTg0Njk1NTg2MiwtMzM5MjQzNDQwLDk4MzI4Mj
+E3NywxNDU5OTQwNTQwLDExMzM1ODA1MDYsNzg4Njk0MTI1LC05
+MjEzNDk4MDddfQ==
 -->
