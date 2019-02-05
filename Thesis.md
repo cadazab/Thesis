@@ -40,7 +40,7 @@ In this theory, the photon offer a whole new perspective on electromagnetic inte
 3.  Mesons: 
 If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there should be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but that it should have a very small range, because otherwise we would see its effects beyond the atom.  Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 6 times the mass of the proton, and it was called **meson**. The experimental evidence of this particle would come in 1937, in which two research groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description.
 
- yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
+
 
 
 5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
@@ -193,11 +193,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MDAyMzI0LC0xMDE1NzEzMzYwLC0xOD
-E4MTMwODkzLC0xNzgzNzc1MTg2LDU0MDAzMTAxMCwyMDc2MTc5
-NTk2LC0xNjYwNzM1NjIyLC0xNjI4MTM1MzU4LC03MDI2NzQ3Mj
-MsLTYyNDI3OTM4MCwtMTY3ODQzODM4NiwxMTg4MTUyMjM3LC0y
-MDc2MDU3MDQ3LDEyNTgzNzY0ODgsMTc0Njc0NzM0MCwyMTEzNz
-Y3NjQ2LC0xOTYzMjQ4NzU5LC00MDA3NjU5ODAsNTQ5MzI0ODE4
-LDE4NDY5NTU4NjJdfQ==
+eyJoaXN0b3J5IjpbMjEzMDk5MzU2NSwtMTAxNTcxMzM2MCwtMT
+gxODEzMDg5MywtMTc4Mzc3NTE4Niw1NDAwMzEwMTAsMjA3NjE3
+OTU5NiwtMTY2MDczNTYyMiwtMTYyODEzNTM1OCwtNzAyNjc0Nz
+IzLC02MjQyNzkzODAsLTE2Nzg0MzgzODYsMTE4ODE1MjIzNywt
+MjA3NjA1NzA0NywxMjU4Mzc2NDg4LDE3NDY3NDczNDAsMjExMz
+c2NzY0NiwtMTk2MzI0ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgx
+OCwxODQ2OTU1ODYyXX0=
 -->
