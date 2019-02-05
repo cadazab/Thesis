@@ -38,7 +38,7 @@ when you are dealing with small objects, like atoms or electrons, you have to ma
 In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
  
 3.  Mesons: 
-Well, if the nucleus of the atom was concentrated in a small region, and this was conformed by neutrons and protons, which is what keeps these protons (electrically charged) together, and which avoids that they repel each other violently?
+Well, if the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together, and prevents them from repelling one another violently?. 
 
 
  yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
@@ -194,7 +194,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDA4MTkyMywyMDc2MTc5NTk2LC0xNj
+eyJoaXN0b3J5IjpbLTUxMjEzMTc4OCwyMDc2MTc5NTk2LC0xNj
 YwNzM1NjIyLC0xNjI4MTM1MzU4LC03MDI2NzQ3MjMsLTYyNDI3
 OTM4MCwtMTY3ODQzODM4NiwxMTg4MTUyMjM3LC0yMDc2MDU3MD
 Q3LDEyNTgzNzY0ODgsMTc0Njc0NzM0MCwyMTEzNzY3NjQ2LC0x
