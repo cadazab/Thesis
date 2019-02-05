@@ -36,14 +36,15 @@ To understand a little more the fact that the quantization is a feature of the e
 when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass  (mass at rest) is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory. Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
 
 In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
- 
+
+5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
 3.  Mesons: 
 If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there should be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but that it should have a very small range, because otherwise we would see its effects beyond the atom.  Yukawa also thought that this force (like the electromagnetic) should be quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated that its mass should be nearly 6 times the mass of the proton, and it was called **meson**. The experimental evidence of this particle would come in 1937, in which two research groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description.
 
 
 
 
-5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
+
 6. Mesons: pi and muon, page 19
 7. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
 8. 
@@ -193,11 +194,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDk5MzU2NSwtMTAxNTcxMzM2MCwtMT
-gxODEzMDg5MywtMTc4Mzc3NTE4Niw1NDAwMzEwMTAsMjA3NjE3
-OTU5NiwtMTY2MDczNTYyMiwtMTYyODEzNTM1OCwtNzAyNjc0Nz
-IzLC02MjQyNzkzODAsLTE2Nzg0MzgzODYsMTE4ODE1MjIzNywt
-MjA3NjA1NzA0NywxMjU4Mzc2NDg4LDE3NDY3NDczNDAsMjExMz
-c2NzY0NiwtMTk2MzI0ODc1OSwtNDAwNzY1OTgwLDU0OTMyNDgx
-OCwxODQ2OTU1ODYyXX0=
+eyJoaXN0b3J5IjpbODA3NzY2MjAzLDIxMzA5OTM1NjUsLTEwMT
+U3MTMzNjAsLTE4MTgxMzA4OTMsLTE3ODM3NzUxODYsNTQwMDMx
+MDEwLDIwNzYxNzk1OTYsLTE2NjA3MzU2MjIsLTE2MjgxMzUzNT
+gsLTcwMjY3NDcyMywtNjI0Mjc5MzgwLC0xNjc4NDM4Mzg2LDEx
+ODgxNTIyMzcsLTIwNzYwNTcwNDcsMTI1ODM3NjQ4OCwxNzQ2Nz
+Q3MzQwLDIxMTM3Njc2NDYsLTE5NjMyNDg3NTksLTQwMDc2NTk4
+MCw1NDkzMjQ4MThdfQ==
 -->
