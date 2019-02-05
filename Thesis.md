@@ -37,14 +37,16 @@ when you are dealing with small objects, like atoms or electrons, you have to ma
 
 In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
  
-3.  Meson: what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
+3.  Mesons: 
+
+Well, if the nucleus of the atom was concentrated in a small region, and this was conformed by neutrons and protons, which kept these protons (electrically charged) together, and which prevented them from repelling each other violently?what holds the nucleus together? yukawa calculates an intermediate masive particle (meson) to the exchange particle that allows the strong force, and then evidence was seen in experiments with cosmic ray particles.
 
 
-4. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
-5. Mesons: pi and muon, page 19
-6. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
-7. 
+5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
+6. Mesons: pi and muon, page 19
+7. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
 8. 
+9. 
 
 # Welcome to StackEdit!
 
@@ -190,11 +192,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjE3OTU5NiwtMTY2MDczNTYyMiwtMT
-YyODEzNTM1OCwtNzAyNjc0NzIzLC02MjQyNzkzODAsLTE2Nzg0
-MzgzODYsMTE4ODE1MjIzNywtMjA3NjA1NzA0NywxMjU4Mzc2ND
-g4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0ODc1OSwt
-NDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC0zMzkyND
-M0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4MDUwNiw3
-ODg2OTQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTI1MDQ2ODcxMCwyMDc2MTc5NTk2LC0xNj
+YwNzM1NjIyLC0xNjI4MTM1MzU4LC03MDI2NzQ3MjMsLTYyNDI3
+OTM4MCwtMTY3ODQzODM4NiwxMTg4MTUyMjM3LC0yMDc2MDU3MD
+Q3LDEyNTgzNzY0ODgsMTc0Njc0NzM0MCwyMTEzNzY3NjQ2LC0x
+OTYzMjQ4NzU5LC00MDA3NjU5ODAsNTQ5MzI0ODE4LDE4NDY5NT
+U4NjIsLTMzOTI0MzQ0MCw5ODMyODIxNzcsMTQ1OTk0MDU0MCwx
+MTMzNTgwNTA2XX0=
 -->
