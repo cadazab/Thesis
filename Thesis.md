@@ -33,7 +33,7 @@ What is matter made of?, What are the basic building blocks of the universe that
 To understand a little more the fact that the quantization is a feature of the electromagnetic field, it is necessary to address the physical theories necessary to analyze the interactions of these particles.
 
 3. Physics needed: 
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory (when we speak of mass, we really speak of mass at rest). Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
+when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**.   This combination has certain important implications, for example, energy and momentum are always conserved, but the mass  (mass at rest) is not, and it is possible to have a decay A -> B + C, in which the sum of mass B and C is greater than the mass of A. This is a direct consequence of the relativistic theory. Another implication is that physical systems are described by a wave function, and physical processes consist of transitions from one state to another, and these transitions are not fully determined by the initial conditions, instead the probability for a given transition to occur is calculated.
 
 In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullo         yb bb    gsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
  
@@ -188,11 +188,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA3MzU2MjIsLTE2MjgxMzUzNTgsLT
-cwMjY3NDcyMywtNjI0Mjc5MzgwLC0xNjc4NDM4Mzg2LDExODgx
-NTIyMzcsLTIwNzYwNTcwNDcsMTI1ODM3NjQ4OCwxNzQ2NzQ3Mz
-QwLDIxMTM3Njc2NDYsLTE5NjMyNDg3NTksLTQwMDc2NTk4MCw1
-NDkzMjQ4MTgsMTg0Njk1NTg2MiwtMzM5MjQzNDQwLDk4MzI4Mj
-E3NywxNDU5OTQwNTQwLDExMzM1ODA1MDYsNzg4Njk0MTI1LC05
-MjEzNDk4MDddfQ==
+eyJoaXN0b3J5IjpbLTgxNzMwMzMyMSwtMTY2MDczNTYyMiwtMT
+YyODEzNTM1OCwtNzAyNjc0NzIzLC02MjQyNzkzODAsLTE2Nzg0
+MzgzODYsMTE4ODE1MjIzNywtMjA3NjA1NzA0NywxMjU4Mzc2ND
+g4LDE3NDY3NDczNDAsMjExMzc2NzY0NiwtMTk2MzI0ODc1OSwt
+NDAwNzY1OTgwLDU0OTMyNDgxOCwxODQ2OTU1ODYyLC0zMzkyND
+M0NDAsOTgzMjgyMTc3LDE0NTk5NDA1NDAsMTEzMzU4MDUwNiw3
+ODg2OTQxMjVdfQ==
 -->
