@@ -3,10 +3,6 @@
 2. decays: a particle spontaneously disintegrates and the debris are examined
 3. bound states: Two or more particles stick together, and the properties of the composite object are studied.
 
-### Physics needed
-when you are dealing with small objects, like atoms or electrons, you have to make the transition from classical mechanics to quantum mechanics, and when you have objects that travel very fast you have to use special relativity, the elementary particles are booth, so you need a combination of these theories, that combination is called **Quantum field theory**
-
-some of the implications are that for example the mass is not not conserved as energy and momentum does, so you have interactions where the mass is different at the beginning and at the end, or that you can not assume the result you will get after an interaction knowing the initial states, rather you will have a probability this state.
 
 ### Sources of elementary Particles
 1. Cosmic Rays: from outer space, high-energy particles arrive constantly, probably originated in supernovas or active galactic nucleus (this subject is still an area of research). They hit atoms in the upper atmosphere and produce showers of secondary particles, which rasin down on us all the time, despite the fact that the energies of these particles are far greater than we produce in the laboratory, the rate at they strike a detector is very low, and of course they are completely uncontrollable. 
@@ -42,8 +38,6 @@ If the nucleus of the atom was concentrated in a small region, and this was comp
 
 4. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
 
-
-5. Mesons: pi and muon, page 19
 6. Neutrinos:  in the first half of the last century, the **beta decay**, where a radioactive nucleus decays into other slightly lighter with the emission of one electron, was a well-studied phenomenon, however the experimental measures showed a discordance with the conservation of energy,  the electron had less energy than expected. To explain this result, Wolfgang Pauli proposed that another particle was emitted along with the electron, a particulate that due to the conservation of the charge, it had to be electrically neutral, and due to conservation of energy extremely light. 
 7. 
 8. 
@@ -192,11 +186,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTk4NTQwMSw3NTM2NjAxNzQsLTUzOT
-E3MjExMiwxMDg2Nzg5ODI2LDk4NTQ3OTkyOSwyMTMwOTkzNTY1
-LC0xMDE1NzEzMzYwLC0xODE4MTMwODkzLC0xNzgzNzc1MTg2LD
-U0MDAzMTAxMCwyMDc2MTc5NTk2LC0xNjYwNzM1NjIyLC0xNjI4
-MTM1MzU4LC03MDI2NzQ3MjMsLTYyNDI3OTM4MCwtMTY3ODQzOD
-M4NiwxMTg4MTUyMjM3LC0yMDc2MDU3MDQ3LDEyNTgzNzY0ODgs
-MTc0Njc0NzM0MF19
+eyJoaXN0b3J5IjpbMTM0ODY2NDcxMywxMjkxOTg1NDAxLDc1Mz
+Y2MDE3NCwtNTM5MTcyMTEyLDEwODY3ODk4MjYsOTg1NDc5OTI5
+LDIxMzA5OTM1NjUsLTEwMTU3MTMzNjAsLTE4MTgxMzA4OTMsLT
+E3ODM3NzUxODYsNTQwMDMxMDEwLDIwNzYxNzk1OTYsLTE2NjA3
+MzU2MjIsLTE2MjgxMzUzNTgsLTcwMjY3NDcyMywtNjI0Mjc5Mz
+gwLC0xNjc4NDM4Mzg2LDExODgxNTIyMzcsLTIwNzYwNTcwNDcs
+MTI1ODM3NjQ4OF19
 -->
