@@ -38,8 +38,7 @@ when you are dealing with small objects, like atoms or electrons, you have to ma
 In this theory, the photon offer a whole new perspective on electromagnetic interactions, the electrical repulsion or attraction is no longer attributed to the magnetic field, in the quantum field theory the electric field is quantized in the form of photons, and the electric interactions are described as the constant exchange of these, which carry the *information* of repullsion or attraction. For instance, in the case of the repulsion of two electrons, we can imagine the interaction like a stream of photons, which is emitted and absorbed by both of the electrons. In this picture is more evident that the quantization is a feature of the electromagnetic field itself.
  
 3.  Mesons: 
-If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there must be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but with a very small range, because otherwise we would see its effects beyond the atom.  Yukawa also thought that this force (like the electromagnetic) is quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated its mass around 300 times the mass of the electron, or about a sixth the mass of a proton,  and it was called **meson** ('middle-weight'). The experimental evidence of this particle would come in 1937, in which two research groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description, and they called $\pi$ (pion). In the same cosmic ray analysis another new particle was found, the $\mu$ (muon), which is lighter and longer lived than the $\pi$. 
-
+If the nucleus of the atom was concentrated in a small region, and this was composed by neutrons and protons, what keeps these protons (electrically charged) together with neutrons, and prevents them from repelling one another violently?. Hideki Yukawa proposed in 1934, that there must be a force that would attract neutrons and protons together, and that this force should be stronger than the electrical repulsion of protons, but with a very small range, because otherwise we would see its effects beyond the atom.  Yukawa also thought that this force (like the electromagnetic) is quantized, and that there should be some particle in charge of mediating it. Taking into account the short range of this force (about the radius of the core), he estimated its mass around 300 times the mass of the electron, or about a sixth the mass of a proton,  and it was called **meson** ('middle-weight'). The experimental evidence of this particle would come in 1937, in which two research groups analyzing cosmic rays, published separately the discovery of a particle that matched Yukawa's description, and they called $\pi$ (pion). In the same cosmic ray analysis another new particle was found, the $\mu$ (muon), which is lighter and longer lived than the $\pi$, and it actually has more in common with the electron, but I'll come back to this later.
 
 5. Antiparticles: as a consequence of  the relativistic theory, the energy of free electrons could be negative, which after many interpretation attempts, stuckleberg and feynman provided one in wich the negative energy solutions are positive energy states of another particle, the positron, or the electron antiparticle. It turns out that as a consequence of the quantum field theory, for every particle there must exist a corresponding antiparticle with the same mas but opposite electric charge or lepton number, and those antiparticles can't exist for long, because they can't coexist with their opposites, if a particle meets its antiparticle they annihilate, and since our universe is made of "ordinary mater". and those antiparticles can't exist for long, because they can't coexist with their opposites. When an antiparticle is generated, it quickly finds its opposite and both disappear. because our universe is made up of normative matter, this is still an open question, but for now observations suggest that it is a historical accident that occurred during the initial stages of the creation of the universe after the big bang.
 6. Mesons: pi and muon, page 19
@@ -191,11 +190,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTE3NzU3Niw3NTM2NjAxNzQsLTUzOT
-E3MjExMiwxMDg2Nzg5ODI2LDk4NTQ3OTkyOSwyMTMwOTkzNTY1
-LC0xMDE1NzEzMzYwLC0xODE4MTMwODkzLC0xNzgzNzc1MTg2LD
-U0MDAzMTAxMCwyMDc2MTc5NTk2LC0xNjYwNzM1NjIyLC0xNjI4
-MTM1MzU4LC03MDI2NzQ3MjMsLTYyNDI3OTM4MCwtMTY3ODQzOD
-M4NiwxMTg4MTUyMjM3LC0yMDc2MDU3MDQ3LDEyNTgzNzY0ODgs
-MTc0Njc0NzM0MF19
+eyJoaXN0b3J5IjpbLTE5NTQ0NjgzMDAsNzUzNjYwMTc0LC01Mz
+kxNzIxMTIsMTA4Njc4OTgyNiw5ODU0Nzk5MjksMjEzMDk5MzU2
+NSwtMTAxNTcxMzM2MCwtMTgxODEzMDg5MywtMTc4Mzc3NTE4Ni
+w1NDAwMzEwMTAsMjA3NjE3OTU5NiwtMTY2MDczNTYyMiwtMTYy
+ODEzNTM1OCwtNzAyNjc0NzIzLC02MjQyNzkzODAsLTE2Nzg0Mz
+gzODYsMTE4ODE1MjIzNywtMjA3NjA1NzA0NywxMjU4Mzc2NDg4
+LDE3NDY3NDczNDBdfQ==
 -->
